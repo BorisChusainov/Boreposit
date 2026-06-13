@@ -1,0 +1,6 @@
+{
+  "asciidoc-productivity.completionsUrl": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+  "asciidoc-productivity.llm": "gemini-3.5-flash",
+  "asciidoc-productivity.apiKey": "AQ.Ab8RN6J8aGjORsu--zoQweLbN6-YpPs7O8TUmzAvE3TSoPPklA",
+  "asciidoc-productivity.maxOutputTokens": 32768
+}
